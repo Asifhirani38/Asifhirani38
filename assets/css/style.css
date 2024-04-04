@@ -35,6 +35,10 @@
   background-color: #f4f4f4;
 }
 
+.bg-color-wrok-history {
+  background-color: #9b59b6;
+}
+
 .row-table {
   display: table;
 }
@@ -45,6 +49,7 @@
   float: none;
 }
 
+.history-heading,
 .section-heading {
   font-family: "Exo" sans-serif;
   font-weight: 300;
@@ -302,4 +307,11 @@ footer {
 
 .progress-section {
   margin: 40px 20px;
+}
+
+/* ------------------------------------------Work History */
+
+.history-heading {
+  color: #fafafa;
+  margin-bottom: 50px;
 }
