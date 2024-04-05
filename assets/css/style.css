@@ -58,7 +58,7 @@
 }
 
 a {
-  color: #e67e22;
+  color: #f3f1e0;
   font-weight: bold;
 }
 
@@ -356,4 +356,8 @@ footer {
   border-radius: 12px;
   content: "";
   background-color: #fafafa;
+}
+
+.history-items {
+  margin-bottom: 30px;
 }
